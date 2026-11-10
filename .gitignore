@@ -1,0 +1,15 @@
+# local environment and build output
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# test / sample output
+_html_test/
+_test_out/
+
+# editor / tool settings
+.claude/
+.vscode/
+.idea/

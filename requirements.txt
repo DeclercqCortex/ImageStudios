@@ -1,0 +1,10 @@
+PySide6>=6.6
+numpy
+tifffile
+imagecodecs
+nd2
+imageio
+imageio-ffmpeg
+Pillow>=10
+pillow-heif
+pypdfium2
